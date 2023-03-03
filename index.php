@@ -66,8 +66,7 @@
    </head>
    <body>
    <!--this change is done by rupesh -->
-    <h1>Hello Rupesh Jadhav</h1>
-    <h1>hello dev patel</h1>
+    <h1>Ave Apde be pro kheldai thi gay git hub ma</h1>
     <!-- Change End -->
       <div class="container mt-4">
          <div class="card" id="msgwel">
