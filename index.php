@@ -65,9 +65,10 @@
       <title>Jquery Crud operation </title>
    </head>
    <body>
-     
-    <h1>Hellow Rupesh</h1>
-    <h1>hellw dev patel</h1>
+   <!--this change is done by rupesh -->
+    <h1>Hello Rupesh Jadhav</h1>
+    <h1>hello dev patel</h1>
+    <!-- Change End -->
       <div class="container mt-4">
          <div class="card" id="msgwel">
             <div class="card-body">
