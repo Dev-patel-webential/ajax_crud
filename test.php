@@ -152,7 +152,7 @@ div.social {
 
 
     <footer>
-    	
+    	<h2>this is test by legend</h2>
     	<div class="row primary">
     <div class="column about">
         <h3>Connect</h3>
