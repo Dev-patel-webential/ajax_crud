@@ -3,9 +3,6 @@ session_start();
 include 'database.php';
 $conn = $conn;
 
-
-
-
 class Query
 {
     
