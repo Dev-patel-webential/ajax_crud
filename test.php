@@ -152,7 +152,11 @@ div.social {
 
 
     <footer>
+
     <h1>Rupesh this is my line</h1>	
+
+    	<h2>this is test by legend</h2>
+
     	<div class="row primary">
     <div class="column about">
         <h3>Connect</h3>
