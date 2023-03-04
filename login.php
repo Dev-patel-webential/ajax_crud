@@ -7,17 +7,13 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<script src="
-https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/dist/sweetalert.min.js
-"></script>
-    <title></title>
+
+    <title>Crud_Operation</title>
 
 
   </head>
   <body>
-    <h1>This is My Code Dev Please Check This code And Tell me About It </h1>
-    <p> Priy mitra Dev taro patr malyo vachi kubh aanad thayo aasha rakhu chhu ke tu majama hoish </p>
-    <p> Asha karu chhu tu patr Lakhish </p>
+    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
